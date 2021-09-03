@@ -1,4 +1,4 @@
-# Product Landing Page
+# Product Landing Page [![CodeFactor](https://www.codefactor.io/repository/github/googoldkhan/d3-bar-chart/badge)](https://www.codefactor.io/repository/github/googoldkhan/d3-bar-chart)
 
 - India's GDP data visualization with a bar chart using D3
 - GDP data is taken from World Bank. [Source](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IN)
