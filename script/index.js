@@ -1,10 +1,3 @@
-// Coded by @Sarfaraz-Khan
-
-const projectName = "bar-chart";
-
-//GDP data taken from World Bank
-// source : https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=IN
-
 var width = 800,
     height = 400,
     barWidth = width / 60;
